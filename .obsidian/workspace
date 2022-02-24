@@ -1,0 +1,98 @@
+{
+  "main": {
+    "id": "4e0597ebbbb0aa08",
+    "type": "split",
+    "children": [
+      {
+        "id": "1b92c81ff5979b40",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "2.FileCoin/中国大陆地区证明参数的下载优化.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "8481648d4fa20944",
+    "type": "split",
+    "children": [
+      {
+        "id": "a2e942faa5681982",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "168d869d3570b8fa",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "b72625dcf24d4c35",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "3619aaec83af4e7b",
+    "type": "split",
+    "children": [
+      {
+        "id": "47c317544351e6f2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "35dee4f5751b1081",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "2.FileCoin/中国大陆地区证明参数的下载优化.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "1b92c81ff5979b40",
+  "lastOpenFiles": [
+    "2.FileCoin/中国大陆地区证明参数的下载优化.md",
+    "C.捐赠我们.md",
+    "B.社区.md",
+    "A.README.md",
+    "1.IPFS/Linux一键部署IPFS节点脚本.md"
+  ]
+}
