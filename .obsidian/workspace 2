@@ -1,0 +1,78 @@
+{
+  "main": {
+    "id": "3d5437304a3e42a2",
+    "type": "split",
+    "children": [
+      {
+        "id": "cd587a0a08214b65",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "A.README.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "261478952670c38a",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "8a797f510218c331",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {}
+        }
+      },
+      {
+        "id": "ec02cfe87671ab53",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "7592043b81fed404",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "76e6f36535452ecf",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "A.README.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "active": "cd587a0a08214b65",
+  "lastOpenFiles": [
+    "A.README.md"
+  ]
+}
